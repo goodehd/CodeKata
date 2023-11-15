@@ -1,3 +1,10 @@
+*.vs
+/[Bb]in/
+
+*.cso
+*.idb
+*.pdb
+
 # Prerequisites
 *.d
 
